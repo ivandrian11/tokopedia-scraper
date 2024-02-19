@@ -74,3 +74,32 @@ $ make run-search
 ```
 
 4. Setelah proses selesai, hasil scraping sudah bisa dilihat pada folder **output**.
+
+```json
+[
+  {
+    "product_name": "Samsung Galaxy M54 5G 8/256GB",
+    "product_price": "Rp6.499.000",
+    "product_discount": null,
+    "original_price": null,
+    "product_image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/1/28/a6caaa3c-c4dc-43fe-9bf1-d9d6ed81cec6.jpg",
+    "merchant_name": "Hapeworld - Samsung Authorized",
+    "merchant_loc": "Banjarmasin",
+    "rating": null,
+    "product_sold": null,
+    "product_detail_link": "https://www.tokopedia.com/hapeworldasp/samsung-galaxy-m54-5g-8-256gb-dark-blue-34d18?extParam=ivf%3Dfalse&src=topads&management_type=1&ob=23&r_replacement=new&is_search=1&keywords=samsung&dv=desktop&pub_id=0&pub_unit=0&page=2&src=search&pub_domain=0"
+  },
+  {
+    "product_name": "Samsung Galaxy A05S 6/128 GB Garansi Resmi 1 Tahun",
+    "product_price": "Rp2.085.000",
+    "product_discount": "9%",
+    "original_price": "Rp2.299.000",
+    "product_image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/11/27/a2034f62-d07d-4dd0-8a95-48c9f2135d3e.jpg",
+    "merchant_name": "NEW ERA PONSEL",
+    "merchant_loc": "Jakarta Timur",
+    "rating": "4.9",
+    "product_sold": "250+ terjual",
+    "product_detail_link": "https://www.tokopedia.com/neweraponsel/samsung-galaxy-a05s-6-128-gb-garansi-resmi-1-tahun-green-promo-6-128gb-10459?extParam=cmp=1&ivf=false&src=search"
+  }
+]
+```
